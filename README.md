@@ -1,1 +1,0 @@
-# ehi-opener.cf
