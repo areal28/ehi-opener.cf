@@ -30,6 +30,7 @@ logo: "https://shares.netlify.com/img/androids.png"
 collections:
  oiins:
     output: true
+    layout: 404
     permalink: /path/:title:output_ext
      #  
 baseurl: ''
