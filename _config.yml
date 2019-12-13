@@ -27,8 +27,6 @@ url: 'https://shares.netlify.com'
 # permalink: pretty
 logo: "https://shares.netlify.com/img/androids.png"
 #
-collections_dir: /
-#
 collections:
  oiins:
     output: true
