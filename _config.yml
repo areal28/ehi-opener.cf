@@ -31,7 +31,7 @@ collections:
  oiins:
     output: true
     layout: 404
-    permalink: /path/:title:output_ext
+    permalink: /:path
      #  
 baseurl: ''
 compress_html:
