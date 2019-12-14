@@ -30,20 +30,17 @@ logo: "https://shares.netlify.com/img/androids.png"
 defaults:
   -
     scope:
-      path: ""
-      type: "facebook"
+      path: "facebook"
     values:
       layout: "fb"
    -
      scope:
-      path: ""
-      type: "link2app"
+      path: "link2app"
     values:
       layout: "link2app-layout"
-         -
+   -
      scope:
-      path: ""
-      type: "oiin"
+      path: "oiin"
     values:
       layout: "oiin-layout"
      # 
