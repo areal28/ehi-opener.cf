@@ -30,19 +30,17 @@ logo: "https://shares.netlify.com/img/androids.png"
 defaults:
   -
     scope:
-      path: "facebook"
+      path: ""
+      type: "pages"
     values:
-      layout: "fb"
-   -
-     scope:
-      path: "link2app"
+      layout: "my-site"
+  -
+    scope:
+      path: "projects"
+      type: "pages" # previously `page` in Jekyll 2.2.
     values:
-      layout: "link2app-layout"
-   -
-     scope:
-      path: "oiin"
-    values:
-      layout: "oiin-layout"
+      layout: "project" # overrides previous default layout
+      author: "Mr. Hyde"
      # 
 baseurl: ''
 compress_html:
