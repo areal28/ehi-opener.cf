@@ -41,6 +41,7 @@ defaults:
     values:
       layout: "project" # overrides previous default layout
       author: "Mr. Hyde"
+      permalink: /:pth
      # 
 baseurl: ''
 compress_html:
